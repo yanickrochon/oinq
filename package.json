@@ -1,0 +1,30 @@
+{
+  "name": "oinq",
+  "version": "0.0.0",
+  "description": "Object Integrated Query (SQL)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanickrochon/oinq.git"
+  },
+  "keywords": [
+    "sql",
+    "query",
+    "builder",
+    "postgresql"
+  ],
+  "author": "Yanick Rochon <yanick.rochon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanickrochon/oinq/issues"
+  },
+  "homepage": "https://github.com/yanickrochon/oinq",
+  "devDependencies": {
+    "semicov": "^0.1.1-2",
+    "should": "^3.2.0",
+    "mocha": "^1.18.2"
+  }
+}
